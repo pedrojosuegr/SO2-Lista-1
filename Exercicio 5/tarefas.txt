@@ -1,0 +1,13 @@
+primo 97
+primo 1000000007
+fib 10
+fib 90
+primo 600851475143
+fib 5000
+primo 2147483647
+97
+fib 12000
+primo 99999999977
+isso nao e tarefa
+fib 1
+primo 1
