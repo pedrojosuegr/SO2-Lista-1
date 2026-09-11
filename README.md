@@ -26,7 +26,7 @@ Cada pasta representa um exercício específico e contém o seu respectivo códi
 │   ├── *.c / *.py / *.java          # Código-fonte (C / Java / Python)
 │   └── relatorio.md # Relatório do exercício
 ├── exercicio-02/
-│   ├── src/
+│   ├── *.c / *.py / *.java
 │   └── relatorio.md
 ...
 └── README.md
